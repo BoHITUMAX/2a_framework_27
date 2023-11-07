@@ -1,4 +1,4 @@
-package com.example.demo;
+package Controller;
 
 public class SampleController {
 
